@@ -1,0 +1,82 @@
+nav {
+	background-color: #333;
+	color: white;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	font-family: 'Varela Round', sans-serif;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+nav li {
+	float: left;
+}
+
+nav li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-family: 'Varela Round', sans-serif;
+}
+
+nav li a:hover {
+	background-color: #111;
+}
+
+section {
+	margin-top: 50px;
+  	text-align: center;
+	font-family: 'Varela Round', sans-serif;
+}
+
+section h1 {
+	font-family: 'Bebas Neue', cursive;
+	font-size: 50px;
+}
+
+section h2 {
+	font-family: 'Varela Round', sans-serif;
+	font-size: 25px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+section ul {
+	margin: 0;
+	padding: 0;
+  text-align: center;
+  font-family: 'Varela Round', sans-serif;
+}
+
+section li {
+	margin-bottom: 10px;
+  text-align: center;
+}
+
+
+img {
+	display: block;
+	margin: 0 auto;
+	max-width: 100%;
+	border-radius: 50%;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+	margin-top: 10%;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+	font-family: 'Bebas Neue', cursive;
+	font-size: x-large;
+	margin-top: 10%;
+  }

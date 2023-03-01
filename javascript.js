@@ -1,0 +1,1 @@
+window.alert("Bienvenido a mi CV Online");
